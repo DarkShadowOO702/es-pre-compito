@@ -17,7 +17,7 @@ $risparmio = 0;
 $fascia = "";
 $colore = "";
 
-// Controllo se il form è stato inviato
+//Controllo se il form è stato inviato
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
 
     // Recupero dati inseriti
